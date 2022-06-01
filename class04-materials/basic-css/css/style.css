@@ -12,7 +12,11 @@ h2 {
 }
 
 section {
-
+    width: 50%;
+    height: 200px;
+    background: gray;
+    color: white;
+    border: 5px solid black;
 }
 
 footer {
