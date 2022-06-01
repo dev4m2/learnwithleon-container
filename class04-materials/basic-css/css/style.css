@@ -20,5 +20,9 @@ section {
 }
 
 footer {
-
+    font-family: 'Roboto', sans-serif;
+    background: black;
+    border: 5px solid lightgreen;
+    font-size: 20px;
+    color: white;
 }
