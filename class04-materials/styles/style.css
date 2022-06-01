@@ -1,0 +1,28 @@
+body {
+    background: skyblue;
+    border: 5px solid green;
+    margin: 30px;
+}
+
+h1 {
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+nav, h2 {
+    border: 1px solid red;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 1px;
+    list-style: none;
+}
+
+img {
+    width: 200px;
+}
