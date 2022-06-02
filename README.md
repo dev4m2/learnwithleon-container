@@ -13,11 +13,10 @@ https://www.wirify.com/
 Class 04 - Learn with Leon (recreated from simple-site-lab.png)
 https://dev4m2.github.io/learnwithleon-container/class04-materials/index.html
 
-Class 05 - Pain1 (recreated from layout1.png)
+Class 05: Pain1 - Pain3 (recreated from layout1.png - layout3.png)
+</br>
 https://dev4m2.github.io/learnwithleon-container/class05-materials/pain1/index.html
-
-Class 05 - Pain2 (recreated from layout2.png)
+</br>
 https://dev4m2.github.io/learnwithleon-container/class05-materials/pain2/index.html
-
-Class 05 - Pain3 (recreated from layout3.png)
+</br>
 https://dev4m2.github.io/learnwithleon-container/class05-materials/pain3/index.html
