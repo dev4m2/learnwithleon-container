@@ -9,10 +9,14 @@ nav li {
     border-right: solid 1px gray;
 }
 
-nav li.nav-logo {
+/* nav li.nav-logo {
     background-color: white;
     color: black;
     padding: 3px;
+} */
+
+nav img.nav-logo {
+    width: 75px;
 }
 
 header h3 {
