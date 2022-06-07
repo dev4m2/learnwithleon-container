@@ -31,31 +31,37 @@ body {
 /*******************************************/
 nav {
     float: left;
-    width: 20%;
+    width: 10%;
 }
 
-nav li{
+h2, h3 {
+    margin: 0;
+    margin-bottom: 10px;
+    border: 1px solid red;
+}
+
+li{
     list-style: none;
     padding: 5px;
     border: 1px solid red;
 }
 
-li a {
+a {
     text-decoration: none;
 }
 
-header {
+main {
     float: left;
     width: 50%;
 }
 
-.header-img {
+.main-img {
     width: 100%;
     height: auto;
 }
 
 aside {
-    float: right;
+    float: left;
     width: 30%;
 }
 
@@ -63,9 +69,34 @@ footer {
     clear: both;
 }
 
+footer .section1 {
+    float: left;
+    width: 10%;
+}
+
+footer .section2 {
+    float: right;
+    width: 90%;
+}
+
+footer .section2 div {
+    float: left;
+    width: 90%;
+}
+
+footer .section3 {
+    float: left;
+    width: 10%;
+}
+
+footer .section4 {
+    float: right;
+    width: 90%;
+}
+
 footer div {
     float: left;
-    width: 33%;
+    width: 30%;
 }
 
 /******************************************
